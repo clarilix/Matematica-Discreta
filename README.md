@@ -1,16 +1,16 @@
 # Analisador de Lógica Proposicional
 
-Projeto desenvolvido para a disciplina de **Matemática Discreta / Lógica Formal**  
-Universidade Federal do Maranhão — UFMA  
+Projeto desenvolvido para a disciplina de Matemática Discreta e Lógica Formal 
+Universidade Federal do Maranhão (UFMA) 
 
 Este programa recebe uma expressão lógica digitada pelo usuário e realiza
 três tarefas automaticamente:
 
-1. **Identifica** as proposições atômicas (p, q, r...) e os conectivos
+1. Identifica as proposições atômicas (p, q, r...) e os conectivos
    lógicos presentes na expressão (¬, ∧, ∨, →, ↔)
-2. **Valida** se a expressão está escrita corretamente, rejeitando entradas
+2. Valida se a expressão está escrita corretamente, rejeitando entradas
    inválidas ou mal formadas com mensagens de erro claras
-3. **Gera a Tabela-Verdade completa** com 2ⁿ linhas — onde n é o número
+3. Gera a Tabela-Verdade completa com 2ⁿ linhas — onde n é o número
    de proposições — e classifica a expressão como Tautologia,
    Contradição ou Contingência
 
