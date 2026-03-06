@@ -1,6 +1,6 @@
 # Analisador de Lógica Proposicional
 
-Projeto desenvolvido para a disciplina de Matemática Discreta e Lógica Formal 
+Projeto desenvolvido para a disciplina de Matemática Discreta e Lógica Formal  
 Universidade Federal do Maranhão (UFMA) 
 
 Este programa recebe uma expressão lógica digitada pelo usuário e realiza
